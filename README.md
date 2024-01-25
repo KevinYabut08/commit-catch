@@ -4,9 +4,9 @@
 _It gives me stress somteimes_
 
 ## Warzone set-up
-1.set up load-out
-2.get in the lobby
-3.wait for deployment
-4.land and search for guns 
-5.get kills and be the last one alive
+1. set up load-out
+2. get in the lobby
+3. wait for deployment
+4. land and search for guns 
+5. get kills and be the last one alive
 
