@@ -9,4 +9,4 @@ _It gives me stress somteimes_
 3. wait for deployment
 4. land and search for guns 
 5. get kills and be the last one alive
-
+[Title](https://www.ign.com/games/call-of-duty-warzone/articles)
